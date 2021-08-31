@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello from AWS Cloud9!\n");
+	printf("Olá, alunos de PPC !\n");
 	return 0;
 }
 	
